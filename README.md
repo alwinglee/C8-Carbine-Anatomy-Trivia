@@ -7,7 +7,7 @@ Table of Contents:
     - Project Status:
     - Technologies
     - Libraries
-    - Source
+    - Sources
     - Author
 
 Introduction:
