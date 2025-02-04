@@ -36,7 +36,7 @@ Project Status:
     - Redesign the graphical interface using Tkinter.
 
 Technologies:
-- Application was built using Pycharm Community Edition 2023.3.2
+- Application was built using Pycharm Community Edition 2023.3.3
 - Requires the installation of Pandas library
 
 Libraries:
@@ -52,9 +52,4 @@ Please note that the C7A2 is the standard-issue rifle of the Canadian Armed Forc
 
 Author:
 - Created by Alwin Lee.
-- Can be contated at alwin.g.lee@gmail.competition
-
-
-
-
-"# C8-Carbine-Anatomy-Trivia" 
+- Can be contacted at alwin.g.lee@gmail.com
