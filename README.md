@@ -4,7 +4,7 @@ Table of Contents:
     - Introduction
     - How to Play
     - Features
-    - Project Status:
+    - Project Status
     - Technologies
     - Libraries
     - Sources
@@ -36,20 +36,18 @@ Project Status:
     - Redesign the graphical interface using Tkinter.
 
 Technologies:
-- Application was built using Pycharm Community Edition 2023.3.3
-- Requires the installation of Pandas library
+- Application was built using PyCharm Community Edition 2023.3.3.
+- Requires the installation of Pandas library.
 
 Libraries:
 - pandas: Reads and extracts data from the CSV file C8_Carbine_Parts.csv, which contains all the different C8 Carbine parts.
-- turtle: Renders the graphical interface, handling user input, displaying the timer, tracking the part counter, recording the fastest time, and showing correctly identified parts.
+- turtle graphics: Renders the graphical interface, handling user input, displaying the timer, tracking the part counter, recording the fastest time, and showing correctly identified parts.
 - random: Assists in selecting a random gun part to assess the user.
-
 
 Sources:
 - As a reservist in the military, I wanted to create an application to continuously assess my knowledge of the C8 Carbine's parts. By incorporating my technical skills in Python, I designed it to be a convenient way to challenge myself.
 Please note that the C7A2 is the standard-issue rifle of the Canadian Armed Forces. Unfortunately, I was unable to find a high-quality image of the C7A2; however, the C8 Carbine has identical parts to the C7A2.
 
-
 Author:
 - Created by Alwin Lee.
-- Can be contacted at alwin.g.lee@gmail.com
+- Contact: alwin.g.lee@gmail.com
