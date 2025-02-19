@@ -27,6 +27,7 @@ Required Files:
 - For the application to function properly, the following two files must be present: C8_Carbine_Parts.csv and C8_Diagram.gif.
 - The CSV file contains all the C8 Carbine parts, while the GIF file serves as the background and interface for the trivia application. Do not modify or rename the files.
 - Both files are already included in the repository.
+- A CSV file, C8_Carbine_Score, will be created if it does not  exist to track and record the user's best time.
 
 How to Play:
 - Review and study the C8 parts diagram at:https://www.canada.ca/content/dam/themes/defence/caf/militaryhistory/dhh/drill/figure-4-1-2.jpg
