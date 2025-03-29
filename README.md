@@ -67,5 +67,5 @@ Sources:
 Please note that the C7A2 is the standard-issue rifle of the Canadian Armed Forces. Unfortunately, I was unable to find a high-quality image of the C7A2; however, the C8 Carbine has identical parts to the C7A2.
 
 Author's Information:
-- Created by Alwin Lee.
-- Contact: alwin.g.lee@gmail.com
+- Created by Alwin Lee
+- Contact: alwin.lee@mohawkcollege.ca
