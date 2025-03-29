@@ -18,7 +18,6 @@ Version: 1.0
 
 """
 
-
 def configure_screen():
     """
     Configure the screen dimensions and upload an image of the C8 Anatomy Trivia layout.
